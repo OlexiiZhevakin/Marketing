@@ -771,7 +771,7 @@ font-family: 'Raleway', sans-serif; */
     padding: 75px 0;
   }
   .menu {
-    margin-bottom: 5px;
+    margin-bottom: 0;
   }
   .about__inner {
     display: block;
